@@ -207,4 +207,3 @@ st.caption(
     "a person's actual feelings or mental state. "
     "Use images only with appropriate permission."
 )
-```
